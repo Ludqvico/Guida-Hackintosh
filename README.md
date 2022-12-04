@@ -37,3 +37,6 @@ Se invece sei in carca di un laptop ideale per Hackintosh, ecco alcuni link:
 
 ### Per maggiori informazioni relative ai requisiti minimi o consigliati relativi al vostro hardware, allego la guida ufficiale di OpenCore (la piattaforma che sfrutteremo per realizzare questo Hackintosh).
 * Requisiti: https://dortania.github.io/OpenCore-Install-Guide/macos-limits.html
+
+
+# [Fase preliminare: crea il supporto di installazione USB](https://github.com/Ludqvico/Guida-Hackintosh-Completa-in-ITALIANO/wiki/Fase-preliminare:-crea-il-supporto-di-installazione-USB)
